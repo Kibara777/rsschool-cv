@@ -8,7 +8,7 @@ Contacts
 
 -   email olgaram07\@mail.ru
 
--   address Moscow, Myrmansk, Monchegorsk
+-   address Moscow, Myrmansk, Monchegorsk.
 
  
 
