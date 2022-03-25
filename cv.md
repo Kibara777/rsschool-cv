@@ -15,10 +15,10 @@ Contacts
 Education
 ---------
 
-1.  College:Studied Technical operation and maintenance of electrical and
+1.  College: Studied Technical operation and maintenance of electrical and
     electromechanical equipment.
 
-2.  Univercity:Studied biology at Moscow Humanitarian State University named
+2.  Univercity: Studied biology at Moscow Humanitarian State University named
     after M.A. Sholokhov 2010-2015.
 
 Briefly About Myself:
